@@ -1,0 +1,10 @@
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\bin\Debug\netstandard2.1\VmfSharp.deps.json
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\bin\Debug\netstandard2.1\VmfSharp.dll
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\bin\Debug\netstandard2.1\VmfSharp.pdb
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\obj\Debug\netstandard2.1\VmfSharp.csproj.AssemblyReference.cache
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\obj\Debug\netstandard2.1\VmfSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\obj\Debug\netstandard2.1\VmfSharp.AssemblyInfoInputs.cache
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\obj\Debug\netstandard2.1\VmfSharp.AssemblyInfo.cs
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\obj\Debug\netstandard2.1\VmfSharp.csproj.CoreCompileInputs.cache
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\obj\Debug\netstandard2.1\VmfSharp.dll
+C:\Users\Simon\mc-source\mc-source\libs\vmfSharp\VmfSharp\obj\Debug\netstandard2.1\VmfSharp.pdb
