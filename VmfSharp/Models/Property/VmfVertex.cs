@@ -9,5 +9,10 @@
     public VmfVertex(string name, Vertex value) : base(name, value)
     {
     }
+
+    public override string GetValueString()
+    {
+      return $"({Value.ToString()})";
+    }
   }
 }
