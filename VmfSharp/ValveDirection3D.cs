@@ -1,6 +1,6 @@
 ﻿namespace VmfSharp
 {
-  public enum ValvePosition3D
+  public enum ValveDirection3D
   {
     West, // X-
     East, // X+
