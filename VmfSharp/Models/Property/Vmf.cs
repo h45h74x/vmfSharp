@@ -1,7 +1,6 @@
-﻿using System.Collections;
-using System.Text;
+﻿using VmfSharp.Interfaces;
 
-namespace VmfSharp
+namespace VmfSharp.Models.Property
 {
   public class Vmf<TValue> : IVmf
   {

@@ -1,4 +1,4 @@
-﻿namespace VmfSharp
+﻿namespace VmfSharp.Interfaces
 {
   public interface IVmfSerializableRoot : IVmfRoot
   {

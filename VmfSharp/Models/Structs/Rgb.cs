@@ -1,4 +1,4 @@
-﻿namespace VmfSharp
+﻿namespace VmfSharp.Models.Structs
 {
   public struct Rgb
   {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace VmfSharp
+﻿namespace VmfSharp.Models.Property
 {
   public class VmfInt : Vmf<int>
   {

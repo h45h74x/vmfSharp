@@ -1,4 +1,4 @@
-﻿namespace VmfSharp
+﻿namespace VmfSharp.Models.Property
 {
   public class VmfDecimal : Vmf<decimal>
   {

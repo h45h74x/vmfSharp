@@ -1,4 +1,6 @@
-﻿namespace VmfSharp
+﻿using VmfSharp.Models.Structs;
+
+namespace VmfSharp.Models.Property
 {
   public class VmfVertex : Vmf<Vertex>
   {

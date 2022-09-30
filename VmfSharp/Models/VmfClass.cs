@@ -1,9 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using VmfSharp.Interfaces;
+using VmfSharp.Models.Property;
 
-namespace VmfSharp
+namespace VmfSharp.Models
 {
   public class VmfClass : Vmf<ICollection<IVmf>>
   {

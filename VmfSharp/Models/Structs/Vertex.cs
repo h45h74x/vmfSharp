@@ -1,4 +1,4 @@
-﻿namespace VmfSharp
+﻿namespace VmfSharp.Models.Structs
 {
   /// <summary>
   /// <para>Represents a point in a X(east-west) Y(north-south) Z(top-bottom) coordinate system</para>
